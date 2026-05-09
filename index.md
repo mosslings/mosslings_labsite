@@ -1,9 +1,9 @@
 ---
 ---
 
-# mosslings's Website
+# Welcome to the Moss Lab at IISER-TVM
 
-An engaging 1-3 sentence description of your lab.
+We are enthusiastic about the fascinating world of bryophytes, particularly mosses. These tiny giants, exquisitely adapted to their microhabitats, represent an alternative evolutionary strategy to that of tall vascular plants. We seek to uncover the “mossy way of life” across genetic, developmental, physiological, and ecological scales. Through integrative studies spanning laboratory and field biology, we investigate how mosses achieve resilience, environmental sensing, and carbon capture. By understanding these modern plants, we aim to uncover fundamental biological principles and inspire innovative applications in sustainability and climate biology.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum
 
 {%
   include button.html
@@ -34,8 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Received the ANRF-Prime Minister Early Career Research Grant 2026 for studying the Indian Sphagnum moss diversity and function.
 {%
   include button.html
   link="projects"
@@ -74,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ANRF_logo.jpg"
   link="team"
   title="Our Team"
   text=text
