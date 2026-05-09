@@ -48,7 +48,7 @@ Received the ANRF-Prime Minister Early Career Research Grant 2026 for studying t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ANRF_logo.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/ANRF_logo.jpg"
+  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text
