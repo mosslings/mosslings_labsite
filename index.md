@@ -34,7 +34,7 @@ We are enthusiastic about the fascinating world of bryophytes, particularly moss
 {% endcomment %}
 {% capture text %}
 
-The current team 
+Our research progress in the lab propelled by Sanika, Jagruti, and Thresa.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ The current team
 
 {%
   include feature.html
-  image="images/IMG_6813.JPEG"
+  image="images/IMG_6810.JPEG"
   link="team"
   title="Our Team"
   text=text
