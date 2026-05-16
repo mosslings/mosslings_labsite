@@ -8,15 +8,38 @@ We are enthusiastic about the fascinating world of bryophytes, particularly moss
 {% include section.html %}
 
 ## Highlights
-
+{% comment %}
 {% capture text %}
 
-Lorem ipsum
+  Lorem ipsum
+
+  {%
+    include button.html
+    link="research"
+    text="See our publications"
+    icon="fa-solid fa-arrow-right"
+    flip=true
+    style="bare"
+  %}
+
+  {% endcapture %}
+
+  {%
+    include feature.html
+    image="images/photo.jpg"
+    link="research"
+    title="Our Research"
+    text=text
+  %}
+{% endcomment %}
+{% capture text %}
+
+The current team 
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="team"
+  text="Meet the mosslings!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,9 +49,9 @@ Lorem ipsum
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/IMG_6813.JPEG"
+  link="team"
+  title="Our Team"
   text=text
 %}
 
@@ -56,25 +79,3 @@ Received the ANRF-Prime Minister Early Career Research Grant 2026 for studying t
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
