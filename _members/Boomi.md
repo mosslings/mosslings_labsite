@@ -3,6 +3,7 @@ name: Boominathan Mohanasundaram
 image: images/DSC09285a50p.jpg
 role: principal-investigator
 affiliation: IISER Thiruvananthapuram
+has_publications: true
 aliases:
   - Mohanasundaram B
   - Mohanasundaram
@@ -11,10 +12,11 @@ links:
   orcid: 0000-0003-1065-166X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Boominathan Mohanasundaram is an Assistant Professor in the School of Biology at Indian Institute of Science Education and Research Thiruvananthapuram, where his Moss Lab investigates the biology of mosses and other bryophytes. His research integrates plant developmental biology, physiology, ecology, and image analysis approaches to understand the “mossy way of life.”
+
+
+Teaching:
+
+1) Advances in Plant Biology <br>
+2) Bioimaging and processing <br>
+3) Plant Physiology
