@@ -5,23 +5,26 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research Themes
 
+{% comment %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% endcomment %}
 
 {% include section.html %}
 
-## Research Themes
 
-### Developmental plasticity and physiology of Sphagnum moss growth
+## Developmental and physiological aspects of Sphagnum moss growth
 
-### Microhabitat preferences of mosses
+## Microhabitat preferences of mosses
+
+## Surveying and taxonomic identification of Bryophytes
 
 
 
 
-{% endcomment %}
+{% comment %}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 

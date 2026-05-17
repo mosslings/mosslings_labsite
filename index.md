@@ -57,7 +57,7 @@ Our research progress in the lab so far propelled by Sanika, Jagruti, and Thresa
 
 {% capture text %}
 
-We received the ANRF-Prime Minister Early Career Research Grant 2026 for studying the Indian moss diversity and function.
+We received the ANRF-Prime Minister Early Career Research Grant 2026 for studying the Indian *Sphagnum* moss diversity and function.
 {%
   include button.html
   link="research"

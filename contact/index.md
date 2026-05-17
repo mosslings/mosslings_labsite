@@ -7,15 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We’re always excited to hear from curious and motivated students who want to explore new ideas and contribute to our research. Whether you’re looking for a thesis project, an internship, or simply want to gain hands‑on experience, our lab offers opportunities to learn, collaborate, and grow.
+
+If you’re passionate about science, eager to develop new skills, and ready to work in a supportive team environment, we’d love to hear from you. Email us directly — let’s start a conversation about how you can be part of our work.
 
 {%
   include button.html
   type="email"
-  text="boomi@iisertvm.ac.in"
-  link="boomi@iisertvm.ac.in"
+  text="mosslab1102@gmail.com"
+  link="mosslab1102@gmail.com"
 %}
 {%
   include button.html
@@ -30,6 +30,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://www.google.com/maps/@8.6814153,77.1368791,21z?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
 %}
 
+{% comment %}
 {% include section.html %}
 
 {% capture col1 %}
@@ -75,3 +76,4 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% endcomment %}
