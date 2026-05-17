@@ -34,7 +34,7 @@ We are enthusiastic about the fascinating world of bryophytes, particularly moss
 {% endcomment %}
 {% capture text %}
 
-Our research progress in the lab propelled by Sanika, Jagruti, and Thresa.
+Our research progress in the lab so far propelled by Sanika, Jagruti, and Thresa.
 
 {%
   include button.html
@@ -57,11 +57,11 @@ Our research progress in the lab propelled by Sanika, Jagruti, and Thresa.
 
 {% capture text %}
 
-Received the ANRF-Prime Minister Early Career Research Grant 2026 for studying the Indian Sphagnum moss diversity and function.
+We received the ANRF-Prime Minister Early Career Research Grant 2026 for studying the Indian moss diversity and function.
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our research themes"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

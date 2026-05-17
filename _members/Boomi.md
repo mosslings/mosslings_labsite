@@ -19,4 +19,5 @@ Teaching:
 
 1) Advances in Plant Biology <br>
 2) Bioimaging and processing <br>
-3) Plant Physiology
+3) Plant Physiology <br>
+4) Bio Lab II (UG Practicals)

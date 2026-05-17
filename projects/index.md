@@ -1,3 +1,4 @@
+{% comment %}
 ---
 title: Projects
 nav:
@@ -25,3 +26,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## More
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% endcomment %}

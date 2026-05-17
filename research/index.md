@@ -12,7 +12,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Highlighted
+## Research Themes
+
+### Developmental plasticity and physiology of Sphagnum moss growth
+
+### Microhabitat preferences of mosses
+
+
+
+
+{% endcomment %}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
@@ -25,3 +34,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% endcomment %}
