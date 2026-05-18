@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://www.iisertvm.ac.in/faculty/boomi
   orcid: 0000-0003-1065-166X
+  twitter: "BoominathanM"
 ---
 
 Dr. Boominathan Mohanasundaram is an Assistant Professor in the School of Biology at Indian Institute of Science Education and Research Thiruvananthapuram, where his Moss Lab investigates the biology of mosses and other bryophytes. His research integrates plant developmental biology, physiology, ecology, and image analysis approaches to understand the “mossy way of life.”
@@ -21,3 +22,15 @@ Teaching:
 2) Bioimaging and processing <br>
 3) Plant Physiology <br>
 4) Bio Lab II (UG Practicals)
+
+
+
+{% include section.html %}
+
+## Publications
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}

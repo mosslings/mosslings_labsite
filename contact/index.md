@@ -7,9 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We’re always excited to hear from curious and motivated students who want to explore new ideas and contribute to our research. Whether you’re looking for a thesis project, an internship, or simply want to gain hands‑on experience, our lab offers opportunities to learn, collaborate, and grow.
+We’re always excited to hear from curious and motivated students who want to explore new ideas and contribute to our research. 
+If you’re passionate about science, eager to develop new skills, and ready to work in a supportive team environment, we’d love to hear from you. Email us directly.
 
-If you’re passionate about science, eager to develop new skills, and ready to work in a supportive team environment, we’d love to hear from you. Email us directly — let’s start a conversation about how you can be part of our work.
+Master’s students in STEM fields from Jammu & Kashmir, Ladakh, and Northeast India can apply through the <a href="https://en.vikaspedia.in/viewcontent/education/internship-opportunities-for-students/biotrail-summer-research-and-discovery-program-at-the-school-of-biology,-iiser-thiruvananthapuram?lgn=en" target="_blank">BioTrail</a> program of IISER-TVM and work with us.
 
 {%
   include button.html
