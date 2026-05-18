@@ -191,3 +191,17 @@
   orcid: 0000-0003-1065-166X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/plphys/kiaf408
+  title: 'A deep dive into plant metabolomics: Milestones, technologies, and translational
+    impact'
+  authors:
+  - Megha Rai
+  - Mainak Dutta
+  - Kazuki Saito
+  - Amit Rai
+  publisher: Plant Physiology
+  date: '2025-09-24'
+  link: https://doi.org/hb4pz9
+  image: https://academic.oup.com/view-large/figure/542534472/kiaf408f2.jpg
+  plugin: sources.py
+  file: sources.yaml
