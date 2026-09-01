@@ -15,7 +15,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" sort="seniority" %}
+{% assign filtered_members = site.members | where_exp: "member", "member.role != 'pi' and member.role != 'phd'" %}
+{% for member in filtered_members %}
+  {% include portrait.html lookup=member.slug %}
+{% endfor %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
