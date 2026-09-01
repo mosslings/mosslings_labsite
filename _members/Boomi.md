@@ -1,7 +1,7 @@
 ---
 name: Boominathan Mohanasundaram
 image: images/DSC09285a50p.jpg
-role: principal-investigator
+role: pi
 affiliation: IISER Thiruvananthapuram
 has_publications: true
 aliases:

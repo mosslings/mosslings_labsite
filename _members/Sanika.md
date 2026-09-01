@@ -2,9 +2,12 @@
 name: Sanika Suresh
 image: images/Sanika.JPEG
 role: phd
+seniority: 1
 group: alum
 has_publications: false
 links:
 ---
 
-Sanika Suresh is a UGC-JRF fellow and joined the research group in January 2026. She holds a Bachelor's degree in Botany from Kannur University and a Master's in the same discipline from university of Kerala.
+I am a UGC-JRF fellow and joined the Moss Lab in January 2026. I am interested in in moss developmental biology.
+
+I got my Bachelor's degree in Botany from Kannur University and a Master's in the same discipline from university of Kerala.

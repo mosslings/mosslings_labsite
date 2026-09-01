@@ -5,6 +5,9 @@
 
 We are enthusiastic about the fascinating world of bryophytes, particularly mosses. These tiny giants, exquisitely adapted to their microhabitats, represent an alternative evolutionary strategy to that of vascular plants. We seek to uncover the “mossy way of life” across genetic, developmental, physiological, and ecological scales. Through integrative studies spanning laboratory and field biology, we investigate how mosses achieve resilience, environmental sensing, and carbon capture. By understanding these modern plants, we aim to uncover fundamental biological principles and inspire innovative applications in sustainability and climate biology.
 
+
+We are looking for motivated PhD and iPhD students to join our lab. 
+
 {% include section.html %}
 
 ## Highlights
@@ -34,7 +37,7 @@ We are enthusiastic about the fascinating world of bryophytes, particularly moss
 {% endcomment %}
 {% capture text %}
 
-Our research progress in the lab so far propelled by Sanika, Jagruti, and Thresa.
+Onam Pookalam by our current team members.
 
 {%
   include button.html
@@ -49,7 +52,7 @@ Our research progress in the lab so far propelled by Sanika, Jagruti, and Thresa
 
 {%
   include feature.html
-  image="images/IMG_6810.JPEG"
+  image="images/lab_group_photo_2026.jpeg"
   link="team"
   title="Our Team"
   text=text
