@@ -1,8 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.tplants.2026.06.012
+  title: The contribution and responses of mosses to the global carbon cycle
+  authors:
+  - Boominathan Mohanasundaram
+  - Sona Pandey
+  publisher: Trends in Plant Science
+  date: '2026-07-01'
+  link: https://doi.org/hcb46n
+  orcid: 0000-0003-1065-166X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/nph.19348
-  title: <i>Physcomitrium patens</i> response to elevated CO<sub>2</sub> is flexible
-    and determined by an interaction between sugar and nitrogen availability
+  title: "<i>Physcomitrium patens</i>\n                    response to elevated CO\n\
+    \                    <sub>2</sub>\n                    is flexible and determined\
+    \ by an interaction between sugar and nitrogen availability"
   authors:
   - Boominathan Mohanasundaram
   - Somnath Koley
